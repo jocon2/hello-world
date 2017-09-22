@@ -8,3 +8,5 @@ I have experience in working with Java, Python, and C. I also have experience us
 At my time at Mason, I learned to create several different embedded systems, and how to combine them to create an interesting project.
 
 I would love to find employment in a position where I can use what I learned at Mason.
+Over the next few days, I hope to upload some code I've done both during my time at Mason and randomly on my free time.
+- Jonathan Ocon, Sept 22
